@@ -19,8 +19,8 @@ javascript-master/
 ## 🚀 Getting Started
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-rahul70079/javascript-master.git
-
+   https://github.com/Rahul70079/Javascript-Master
+   
 Open project folder
 cd javascript-master
 
